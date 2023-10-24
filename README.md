@@ -261,7 +261,7 @@ Write a program that outputs a formatted table that shows a conversion from gram
  Grams     Pounds
 --------------------
    100     0.2205
-   200     0.4409
+   200     0.4409 
    300     0.6614
    400     0.8819
    500     1.1023
